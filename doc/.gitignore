@@ -1,0 +1,5 @@
+# Later ignore
+*.synctex.gz
+*.log
+*.aux
+software/.xdp*
