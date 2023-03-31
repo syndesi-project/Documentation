@@ -1,2 +1,1 @@
 # documentation
-Syndesi documentation
